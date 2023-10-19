@@ -1,7 +1,7 @@
 # AWS Batch Image Processing Project
 
 ## Objective
-This project aims to automate image processing tasks, such as resizing and watermarking images, using Python , Pillow for image processing library within an AWS Batch environment.
+This project aims to automate image processing tasks, such as resizing and watermarking image using Python Pillow library for image processing within an AWS Batch environment.
 
 ## Project Steps
 
@@ -38,4 +38,4 @@ Follow these steps to get started with this project:
 4. Create an AWS Batch job definition.
 5. Use the AWS CLI or SDK to submit batch jobs.
 6. Monitor the progress of your batch jobs using AWS Batch tools.
-7. Store the processed images in your chosen storage service.
+7. Store the processed images in your designated Amazon S3 bucket .
